@@ -10,7 +10,7 @@ body{
     background-color: rgb(3, 0, 14);
 }
 .mainWalletContainer_div{
-    border: 1px solid red;
+    border: none;
     width: 100%;
     height: 0px;
     position: relative;
@@ -18,7 +18,7 @@ body{
 }
 
 .mainWalletContainer_receivePage,.mainWalletContainer_swapPage,.mainWalletContainer_stakePage,.mainWalletContainer_settingButton{
-    border: 1px solid red;
+    border: none;
     width: 100%;
     height: 0px;
     margin-bottom: 1000px;
@@ -27,7 +27,7 @@ body{
 }
 
 .mainWalletContainer_sendPage{
-    border: 1px solid red;
+    border: none;
     width: 100%;
     height: 0px;
     margin-bottom: 1000px;
