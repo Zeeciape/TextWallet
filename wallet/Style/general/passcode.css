@@ -7,7 +7,7 @@
     bottom: 0px;
     left: 0px;
     z-index: 10;
-    display: none;
+    display: block;
 }
 .passcode_container{
     background-color: rgb(243, 243, 243);
